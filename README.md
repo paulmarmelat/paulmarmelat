@@ -46,8 +46,8 @@
 
 <h3 align="left">📊 GitHub Analytics :</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=radical" alt="Simonhamel1" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=radical" alt="Simonhamel1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul&layout=compact&theme=radical" alt="Paum" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul&show_icons=true&locale=en&theme=radical" alt="Paul" />
 </p>
 
 <p align="center">
