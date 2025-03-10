@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 align="center">I'm Simon Hamelin</h1>
+<h1 align="center">I'm MARMELAT Paul</h1>
 
 
 - 👨‍💻 I'm a student in maths applied to finance at **CY-Tech Cergy**.
@@ -9,7 +9,6 @@
   
 - 🌱 I’m currently learning **Python and HTML5**.
 
-- 💻 All of my projects are available on [**GitHub**](https://github.com/Simonhamel1).
 
 
 <p align="center">
